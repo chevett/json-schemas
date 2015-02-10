@@ -1,0 +1,34 @@
+{
+	"id": "http://ethoinformatics.org/animal-schema#",
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"description": "schema a contact",
+	"type": "object",
+	"required": [ "_id", "_rev" ],
+	"properties": {
+		"_id": {
+			"type": "string",
+			"format": "uuid"
+		},
+		"_rev": {
+			"type": "string"
+		},
+		"taxon": {
+			"type": "string",
+			"format": "uuid"
+		},
+		"age": {
+			"type": "string",
+			"format": "uuid"
+		},
+		"sex": {
+			"type": "string",
+			"format": "uuid"
+		},
+		"name": {
+			"type": "string"
+		},
+		"notes": {
+			"type": "string"
+		}
+	}
+}

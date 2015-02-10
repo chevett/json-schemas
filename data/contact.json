@@ -1,0 +1,108 @@
+{
+  "_id": "f60dbe0e-a835-4770-8889-10484c21d575",
+  "_rev": "9-2892275eff055bbf2a6bb0ef7022c723",
+  "id": "0ff980a0-54ff-4efd-b285-cb274aa009e1",
+  "color": "#32f28c",
+  "domainName": "contact",
+  "beginTime": "2015-02-03T06:03:03.910Z",
+  "endTime": null,
+  "taxon": "90cda67a-435c-409a-b0fb-62defb541f9c",
+  "group": "15ebbd87-8ba8-43fa-9fd5-4b044a6d37b3",
+  "title": "adsfasdfsda",
+  "notes": "fsadfadsfdasf",
+  "collections": [
+    {
+      "id": "c0ad5a8e-f67f-42d8-a93d-a5b8c0bc60b0",
+      "color": "#3b4594",
+      "domainName": "poop-sample",
+      "beginTime": "2015-02-03T12:43:32.159Z",
+      "endTime": null,
+      "location": "asdfsdfsdf"
+    },
+    {
+      "id": "0555b3d4-94ef-478d-a9b3-c6267647fbf3",
+      "color": "#826ffb",
+      "domainName": "poop-sample",
+      "beginTime": "2015-02-03T12:44:19.582Z",
+      "endTime": null,
+      "location": "sadfsdfdsaf"
+    }
+  ],
+  "focalSamples": [
+    {
+      "_id": "8cf40f49-8512-4ab2-80f2-0585f2802eb7",
+      "color": "#6dc5f7",
+      "domainName": "focal",
+      "beginTime": "2015-02-03T06:03:11.949Z",
+      "endTime": null,
+      "age": "e2ec85d3-314c-491b-b955-33f7dc6316d7",
+      "sex": "560f1d2e-40f8-42a7-a6da-ad585fb422c3",
+      "animal": "384a13d8-0967-4f4c-8f7c-0e23c6c08c3f",
+      "title": "asdfd",
+      "notes": "asfsdfasdfdf"
+    },
+    {
+      "_id": "a849a075-b816-444d-85fb-3457ddd1cac5",
+      "color": "#50e137",
+      "domainName": "focal",
+      "beginTime": "2015-02-03T06:04:04.410Z",
+      "endTime": null,
+      "age": "e2ec85d3-314c-491b-b955-33f7dc6316d7",
+      "sex": "560f1d2e-40f8-42a7-a6da-ad585fb422c3",
+      "animal": "384a13d8-0967-4f4c-8f7c-0e23c6c08c3f",
+      "title": "sdfasd",
+      "notes": "fadsfsdf"
+    },
+    {
+      "_id": "1811ab0e-5ac8-4742-8ed6-cb51425190b9",
+      "color": "#32188c",
+      "domainName": "focal",
+      "beginTime": "2015-02-03T06:05:12.370Z",
+      "endTime": null,
+      "age": "e2ec85d3-314c-491b-b955-33f7dc6316d7",
+      "sex": "560f1d2e-40f8-42a7-a6da-ad585fb422c3",
+      "animal": "384a13d8-0967-4f4c-8f7c-0e23c6c08c3f",
+      "title": "aaaaaaaaaaaaa",
+      "notes": ""
+    },
+    {
+      "_id": "da48bf21-c5df-4dc4-a5c0-be72276cbb77",
+      "color": "#b3b19f",
+      "domainName": "focal",
+      "beginTime": "2015-02-03T12:36:55.050Z",
+      "endTime": null,
+      "age": "e2ec85d3-314c-491b-b955-33f7dc6316d7",
+      "sex": "560f1d2e-40f8-42a7-a6da-ad585fb422c3",
+      "animal": "384a13d8-0967-4f4c-8f7c-0e23c6c08c3f",
+      "title": "hello1",
+      "notes": "",
+      "behaviors": [
+        {
+          "_id": "a3cb9d5b-3dac-4e75-a467-5809ad3d2334",
+          "color": "#fad211",
+          "domainName": "social-focal-behavior",
+          "beginTime": "2015-02-03T13:08:01.189Z",
+          "endTime": null,
+          "type": "c8951955-ce23-497b-bce3-476b8e565ba4",
+          "age": "e2ec85d3-314c-491b-b955-33f7dc6316d7",
+          "sex": "560f1d2e-40f8-42a7-a6da-ad585fb422c3",
+          "animal": "384a13d8-0967-4f4c-8f7c-0e23c6c08c3f",
+          "notes": "social test NEW"
+        },
+        {
+          "_id": "2d39edfa-fdc4-45cb-853c-eee32cdd4a3c",
+          "color": "#62a940",
+          "domainName": "social-focal-behavior",
+          "beginTime": "2015-02-03T13:08:40.896Z",
+          "endTime": null,
+          "type": "c8951955-ce23-497b-bce3-476b8e565ba4",
+          "age": "e2ec85d3-314c-491b-b955-33f7dc6316d7",
+          "sex": "560f1d2e-40f8-42a7-a6da-ad585fb422c3",
+          "animal": "384a13d8-0967-4f4c-8f7c-0e23c6c08c3f",
+          "notes": "social test NEW2"
+        }
+      ]
+    }
+  ]
+}
+

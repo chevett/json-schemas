@@ -1,0 +1,37 @@
+{
+    "id": "http://ethoinformatics.org/contact-schema#",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "schema a contact",
+    "type": "object",
+    "required": [ "_id", "_rev" ],
+    "properties": {
+		"taxon": {
+			"type": "string",
+			"format": "uuid",
+			"domain": "taxon"
+		},
+		"group": {
+			"type": "string",
+			"format": "uuid",
+			"domain": "group"
+		},
+		"title": {
+			"type": "string"
+		},
+		"notes": {
+			"type": "string"
+		},
+        "focalSamples": {
+            "type": "array",
+            "oneOf": [
+                { "$ref": "http://ethoinformatics.org/focal-schema#" }
+            ]
+        },
+        "collections": {
+            "type": "array",
+            "oneOf": [
+                { "$ref": "http://ethoinformatics.org/poop-sample-schema#" }
+            ]
+        }
+    }
+}
