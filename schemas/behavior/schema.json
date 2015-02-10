@@ -28,7 +28,7 @@
 		"collections": {
 			"type": "array",
 			"oneOf": [
-				{ "$ref": "http://ethoinformatics.org/poop-schema#" 
+				{ "$ref": "http://ethoinformatics.org/poop-schema#" }
 			]
 		}
 	}
